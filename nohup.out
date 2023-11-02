@@ -1,0 +1,18 @@
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files   | Names         |  Raw Size
+vendor.js             | vendor        |   2.35 MB |
+polyfills.js          | polyfills     | 333.16 kB |
+styles.css, styles.js | styles        | 230.90 kB |
+main.js               | main          |  48.31 kB |
+runtime.js            | runtime       |   6.50 kB |
+
+| Initial Total |   2.95 MB
+
+Build at: 2023-11-02T02:41:27.468Z - Hash: fd02ba29def5c75d - Time: 7495ms
+
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+
+✔ Compiled successfully.
